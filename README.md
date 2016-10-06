@@ -950,8 +950,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 24. Van Assche Jens
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: jens.vanassche@student.kdg.be
+	- GitHub: https://github.com/JensVanAssche/oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
