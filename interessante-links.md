@@ -10,6 +10,7 @@
 - Talk van Eric Meyer (Style Reset): https://www.youtube.com/watch?v=XKpiP60HXwM
 
 ## XDebug
+- Hoe XDebug installeren: https://xdebug.org/wizard.php
 - http://docs.joomla.org/Edit_PHP.INI_File_for_XDebug Hoe Xdebug instellen op Mac
 
 ## XAMPP
