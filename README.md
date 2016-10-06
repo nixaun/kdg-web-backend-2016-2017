@@ -555,7 +555,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 13. Melis Pieter
 	- email: melis.pieter@student.kdg.be
-	- GitHub: https://github.com/PieterMelis/web-backend-oplossingen
+	- GitHub: https://github.com/PieterMelis/oplossingen-back-end
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -574,7 +574,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td></td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
