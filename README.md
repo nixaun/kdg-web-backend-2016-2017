@@ -266,8 +266,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 5. De Corte Jens
-	- email: jens.decorte@student.kdg.be
-	- GitHub: https://github.com/JensDeCorte/web-backend-oplossingen
+	- email: e-mailadres in de vorm van @student.kdg.be
+	- GitHub: link naar de repo met je oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -322,8 +322,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>1</td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -555,7 +555,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 13. Melis Pieter
 	- email: melis.pieter@student.kdg.be
-	- GitHub: https://github.com/PieterMelis/oplossingen-back-end
+	- GitHub: https://github.com/PieterMelis/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -574,7 +574,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td>1</td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -626,8 +626,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 15. Moerloos Thessa
-	- email: thessa.moerloos@student.kdg.be
-	- GitHub: https://github.com/ThessaMoerloos/web-backend-oplossingen
+	- email: e-mailadres in de vorm van @student.kdg.be
+	- GitHub: link naar de repo met je oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -734,8 +734,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 18. Peeters Lennert
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: lennert.peeters@student.kdg.be
+	- GitHub: https://github.com/nixaun/web-backend.git
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -914,42 +914,6 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 23. Trompeneers Enzo
-	- email: enzo.trompeneers@student.kdg.be
-	- GitHub: https://github.com/enzotrompeneers/web-backend-oplossingen.git
-	- Feedback <table>
-	<thead>
-		<tr>
-			<th>22/09</th>
-			<th>06/10</th>
-			<th>13/10</th>
-			<th>20/10</th>
-			<th>27/10</th>
-			<th>24/11</th>
-			<th>01/12</th>
-			<th>08/12</th>
-			<th>15/12</th>
-			<th>22/12</th>
-			<th>12/1</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-	</tbody>
-</table>
-
-24. Van Assche Jens
 	- email: e-mailadres in de vorm van @student.kdg.be
 	- GitHub: link naar de repo met je oplossingen
 	- Feedback <table>
@@ -985,9 +949,9 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</tbody>
 </table>
 
-25. Van Dijck Hendrik
-	- email: hendrik.vandijck@student.kdg.be
-	- GitHub: https://github.com/ajkea/web-backend-oplossingen.git
+24. Van Assche Jens
+	- email: jens.vanassche@student.kdg.be
+	- GitHub: https://github.com/JensVanAssche/oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -1006,8 +970,44 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td>x</td>
-			<td>x</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+25. Van Dijck Hendrik
+	- email: e-mailadres in de vorm van @student.kdg.be
+	- GitHub: link naar de repo met je oplossingen
+	- Feedback <table>
+	<thead>
+		<tr>
+			<th>22/09</th>
+			<th>06/10</th>
+			<th>13/10</th>
+			<th>20/10</th>
+			<th>27/10</th>
+			<th>24/11</th>
+			<th>01/12</th>
+			<th>08/12</th>
+			<th>15/12</th>
+			<th>22/12</th>
+			<th>12/1</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -1310,8 +1310,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 33. Matthieu Pieter 
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: pieter.matthieu@student.kdg.be
+	- GitHub: https://github.com/pietermatthieu/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
