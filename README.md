@@ -1274,7 +1274,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 32. Luit Robbert 
-	- email: e-mailadres in de vorm van @student.kdg.be
+	- email: robbert.luit@student.kdg.be
 	- GitHub: https://github.com/RobLui/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
@@ -1295,7 +1295,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	<tbody>
 		<tr>
 			<td></td>
-			<td></td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
