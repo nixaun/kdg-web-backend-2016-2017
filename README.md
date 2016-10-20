@@ -446,9 +446,9 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -592,7 +592,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 		<tr>
 			<td>1</td>
 			<td>1</td>
-			<td></td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -627,8 +627,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	<tbody>
 		<tr>
 			<td>1</td>
-			<td></td>
-			<td></td>
+			<td>0</td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -770,9 +770,9 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>0</td>
+			<td>1</td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -916,7 +916,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 		<tr>
 			<td>1</td>
 			<td>1</td>
-			<td></td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -1002,8 +1002,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 25. Van Dijck Hendrik
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: hendrik.vandijck@student.kdg.be
+	- GitHub: https://github.com/ajkea/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -1023,7 +1023,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	<tbody>
 		<tr>
 			<td></td>
-			<td></td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -1130,8 +1130,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>X</td>
+			<td>O</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -1168,7 +1168,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 		<tr>
 			<td></td>
 			<td></td>
-			<td></td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
