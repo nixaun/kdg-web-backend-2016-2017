@@ -304,8 +304,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 		<tr>
 			<td></td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>1</td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
