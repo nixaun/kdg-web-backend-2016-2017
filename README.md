@@ -6,6 +6,13 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
+- Deadline 05 + Periode-opdracht
+	- Deadline: voor de les van woensdag 24 november 2016
+	- Opdracht: tot en met opdracht __autoload (slide 157)
+	- Vergeet niet een commit van je opdrachten te doen
+	- Neem de slides/voorbeelden tot en met CRUD eens door, daar gaan we mee verder volgende les.
+	- Periode-opdracht wordt gebrieft via BB.
+
 - Deadline 04
 	- Deadline: voor de les van donderdag 27 oktober 2016
 	- Opdracht: tot en met opdracht SESSIONS (slide 110)
