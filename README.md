@@ -758,7 +758,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 18. Peeters Lennert
 	- email: lennert.peeters@student.kdg.be
-	- GitHub: https://github.com/nixaun/web-backend.git
+	- GitHub: https://github.com/nixaun/oplossingen-backend
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -780,8 +780,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 			<td>0</td>
 			<td>1</td>
 			<td>1</td>
-			<td></td>
-			<td></td>
+			<td>0</td>
+			<td>0</td>
 			<td></td>
 			<td></td>
 			<td></td>
